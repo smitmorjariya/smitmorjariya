@@ -1,4 +1,4 @@
-Hey! I’m Morjariya Smit 👋</h1>
+<h1 align="center">Hey! I’m Morjariya Smit 👋</h1>
 <h3 align="center">Web Developer | Frontend Developer Enthusiast</h3>
 <p align="center">
   <img width="100%" alt="Banner" src="https://github.com/user-attachments/assets/81038545-0292-4bfb-8647-68d6d47a4cba" />
