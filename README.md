@@ -6,11 +6,11 @@
 </p>
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=smitmorjariya&label=Profile%20views&color=0e75b6&style=flat-square" alt="satnaing" /></p>
+
 ### 👋 Hello there!
 
 - 👨‍💻 I’m currently working: 
-- 🌱 I’m learning: **MERN Stack**, **WebSocket**, **GSAP**, and **Framer Motion**
+- 🌱 I’m learning: **MERN Stack**, ****, **GSAP**
 - 💬 Ask me about: `React`, `Tailwind CSS`, and frontend projects
 - 📫 Reach me at: **morjariyasmit.dev@gmail.com**
 - 🎯 Portfolio: [morjariyasmit.vercel.app](https://morjariyasmit.vercel.app)
