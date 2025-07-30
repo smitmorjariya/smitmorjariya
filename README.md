@@ -2,8 +2,7 @@
 <h3 align="center">A Web Developer passionate about creating animated & responsive UIs</h3>
 
 <p align="center">
-  https://www.canva.com/design/DAF4K4raUjs/Ex6IYUUPcXK3jShAybWyLQ/view?utm_content=DAF4K4raUjs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd52a3bc0f5[Image]
-  <img src="https://www.canva.com/design/DAF4K4raUjs/Ex6IYUUPcXK3jShAybWyLQ/view?utm_content=DAF4K4raUjs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd52a3bc0f5" alt="banner" width="100%" />
+  <img src="https://www.canva.com/design/DAF4K4raUjs/Ex6IYUUPcXK3jShAybWyLQ/view?utm_content=DAF4K4raUjs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd52a3bc0f5" >
 </p>
 
 ---
