@@ -2,8 +2,9 @@
 <h3 align="center">A Web Developer passionate about creating animated & responsive UIs</h3>
 
 <p align="center">
-  <img src="https://www.canva.com/design/DAF4K4raUjs/v4DQiGcBFWOf63y1ZGfybw/edit?utm_content=DAF4K4raUjs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" height="100%" width="100%" >
-</p>
+  <img width="2000" height="600" alt="Black and White Creative Profile Information LinkedIn Article Cover Image" src="https://github.com/user-attachments/assets/81038545-0292-4bfb-8647-68d6d47a4cba" />
+
+  </p>
 
 ---
 
