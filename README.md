@@ -1,44 +1,35 @@
 <h1 align="center">Hey! I’m Morjariya Smit 👋</h1>
-<h3 align="center">Web Developer | Frontend Developer Enthusiast</h3>
-<p align="center">
-  <img width="100%" alt="Banner" src="https://github.com/user-attachments/assets/81038545-0292-4bfb-8647-68d6d47a4cba" />
-</p>
+<h3 align="center">Frontend Developer | Web Developer  Enthusiast</h3>
 
 <p align="center">
-  <a href="https://github.com/smitmorjariya#gh-dark-mode-only" target="_blank">
-    <img src="https://img.shields.io/badge/🌙%20Dark%20Mode-22272e?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/smitmorjariya#gh-light-mode-only" target="_blank">
-    <img src="https://img.shields.io/badge/☀️%20Light%20Mode-ffffff?style=for-the-badge&color=yellow" />
-  </a>
+  <img width="100%" alt="Banner" src="https://github.com/user-attachments/assets/81038545-0292-4bfb-8647-68d6d47a4cba" />
 </p>
 
 ---
 
 ### 📌 About Me
 
-- 🔭 Working on: **MERN stack projects & UI animations**
-- 🌱 Learning: **GSAP**
-- 🧠 Ask me about: `React`, `Tailwind CSS`, `Framer Motion`
-- 📧 Contact: **smit.8189@gmail.com**
+- 🎓 Recently graduated with a B.E. in Computer Science & Engineering
+- 🌱 Currently exploring: **GSAP**, **React.js**, **MERN stack**
+- ⚛️ Tech I love: **`React`**, **`Tailwind CSS`**, **`Framer Motion`**
+- 📧 Email: **smit.8189@gmail.com**
 - 🌐 Portfolio: [smitmorjariya.vercel.app](https://smitmorjariya.vercel.app)
 
 ---
 
 ### 💼 Featured Projects
 
-
-- ✅ **Task Management System** – Real-time team task tool
-	Tech Stack: **`React.js`**,**`Tailwind CSS`**,**`Node.js`**,**`GSAP`**
+- ✅ **Task Management System** – Real-time team collaboration tool  
+  🛠 Tech Stack: **`React.js`**, **`Tailwind CSS`**, **`Node.js`**,** `GSAP`**  
   [📂 Code](https://github.com/smitmorjariya/TeamOrbit-Task-Manager-App)
 
-- ✅ **Portfolio Website** – Real-time team task tool
-	Tech Stack: **`React.js`**,**`Tailwind CSS`**,**`GSAP`**
-  [📂 Code](https://github.com/smitmorjariya/Portfolio-app)
+- ✅ **Portfolio Website** – Personal developer portfolio  
+  🛠 Tech Stack: **`React.js`**,** `Tailwind CSS`**, **`GSAP`**  
+  [🔗 Live](https://smitmorjariya.vercel.app) | [📂 Code](https://github.com/smitmorjariya/Portfolio-app)
 
 ---
 
-### 💻️ Fav Tech Stack
+### 💻 Favorite Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,git,github,vscode" />
@@ -50,7 +41,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=smitmorjariya&show_icons=true&theme=radical" width="350" />
-	
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smitmorjariya&layout=compact&theme=radical" width="330" />
 </p>
 
@@ -64,7 +54,7 @@
 
 ---
 
-### 🌐 Connect
+### 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/morjariyasmit" target="_blank">
@@ -74,14 +64,6 @@
     <img src="https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge" />
   </a>
   <a href="mailto:smit.8189@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Gmail-white?logo=gmail&style=for-the-badge" />
   </a>
-</p>
-
----
-
-### 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=smitmorjariya&style=flat-square&color=blue" />
 </p>
