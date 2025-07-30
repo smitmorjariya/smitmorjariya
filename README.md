@@ -1,35 +1,74 @@
-<h1 align="center">Hey! I am Morjariya Smit</h1>
-<h3 align="center">A Web Developer passionate about creating animated & responsive UIs</h3>
+<h1 align="center">Hey! I’m Morjariya Smit 👋</h1>
+<h3 align="center">Frontend Developer | MERN Stack Enthusiast</h3>
 
 <p align="center">
-  <img width="2000" height="600" alt="Black and White Creative Profile Information LinkedIn Article Cover Image" src="https://github.com/user-attachments/assets/81038545-0292-4bfb-8647-68d6d47a4cba" />
+  <img width="100%" alt="Banner" src="https://github.com/user-attachments/assets/81038545-0292-4bfb-8647-68d6d47a4cba" />
+</p>
 
-  </p>
+<p align="center">
+  <a href="https://github.com/MorjariyaSmitN#gh-dark-mode-only">
+    <img src="https://img.shields.io/badge/🌙%20Dark%20Mode-22272e?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/MorjariyaSmitN#gh-light-mode-only">
+    <img src="https://img.shields.io/badge/☀️%20Light%20Mode-ffffff?style=for-the-badge&color=yellow" />
+  </a>
+</p>
 
 ---
 
-### 👋 Hello there!
+### 📌 About Me
 
-- 👨‍💻 I’m currently working: 
-- 🌱 I’m learning: **MERN Stack**, ****, **GSAP**
-- 💬 Ask me about: `React`, `Tailwind CSS`, and frontend projects
-- 📫 Reach me at: **morjariyasmit.dev@gmail.com**
-- 🎯 Portfolio: [morjariyasmit.vercel.app](https://morjariyasmit.vercel.app)
-- ⚡ Fun fact: I love animating things that make the web feel ALIVE!
+- 🔭 Working on: **MERN stack projects & UI animations**
+- 🌱 Learning: **GSAP**, **Next.js**, and **Socket.IO**
+- 🧠 Ask me about: `React`, `Tailwind CSS`, `Framer Motion`
+- 📧 Contact: **morjariyasmit.dev@gmail.com**
+- 🌐 Portfolio: [morjariyasmit.vercel.app](https://morjariyasmit.vercel.app)
+
+---
+
+### 💼 Featured Projects
+
+- 🖼️ **MemeVerse** – Multi-page animated meme site  
+  [🔗 Live](https://memeverse.vercel.app) | [📂 Code](https://github.com/MorjariyaSmitN/memeverse)  
+  ![MemeVerse Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjI3dXR6eWFvMXJmN3F5emdxZWxoajJlNWFmcnFtODVpdm94NW1iMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oYtVHSxngR3lC/giphy.gif)
+
+- 📚 **Educbi** – Modern education site  
+  [🔗 Live](https://educbi.vercel.app) | [📂 Code](https://github.com/MorjariyaSmitN/educbi)
+
+- ✅ **Task Management System** – Real-time team task tool  
+  [📂 Code](https://github.com/MorjariyaSmitN/task-manager)
+
+- 🛒 **Amazon Clone** – Frontend UI clone  
+  [📂 Code](https://github.com/MorjariyaSmitN/amazon-clone)
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,git,github,vscode,figma" />
+</p>
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MorjariyaSmitN&show_icons=true&theme=radical" alt="Smit's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MorjariyaSmitN&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MorjariyaSmitN&show_icons=true&theme=radical" width="330" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MorjariyaSmitN&layout=compact&theme=radical" width="330" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
+### 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MorjariyaSmitN&theme=github-compact" />
+</p>
+
+---
+
+### 🌐 Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/morjariyasmit" target="_blank">
@@ -48,5 +87,5 @@
 ### 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MorjariyaSmitN&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=MorjariyaSmitN&style=flat-square&color=blue" />
 </p>
