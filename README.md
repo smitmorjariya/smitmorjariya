@@ -21,7 +21,7 @@
 - 🔭 Working on: **MERN stack projects & UI animations**
 - 🌱 Learning: **GSAP**
 - 🧠 Ask me about: `React`, `Tailwind CSS`, `Framer Motion`
-- 📧 Contact: **morjariyasmit.dev@gmail.com**
+- 📧 Contact: **smit.8189@gmail.com**
 - 🌐 Portfolio: [smitmorjariya.vercel.app](https://smitmorjariya.vercel.app)
 
 ---
@@ -50,7 +50,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smitmorjariya&show_icons=true&theme=radical" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api?username=smitmorjariya&show_icons=true&theme=radical" width="350" height="360" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smitmorjariya&layout=compact&theme=radical" width="330" />
 </p>
 
