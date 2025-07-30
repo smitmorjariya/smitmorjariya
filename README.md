@@ -20,11 +20,11 @@
 ### 💼 Featured Projects
 
 - ✅ **Task Management System** – Real-time team collaboration tool  
-  🛠 Tech Stack: **`React.js`**, **`Tailwind CSS`**, **`Node.js`**,** `GSAP`**  
+  🛠 Tech Stack: **`React.js`**, **`Tailwind CSS`**, **`Node.js`**, **`GSAP`**  
   [📂 Code](https://github.com/smitmorjariya/TeamOrbit-Task-Manager-App)
 
 - ✅ **Portfolio Website** – Personal developer portfolio  
-  🛠 Tech Stack: **`React.js`**,** `Tailwind CSS`**, **`GSAP`**  
+  🛠 Tech Stack: **`React.js`**, **`Tailwind CSS`**, **`GSAP`**  
   [🔗 Live](https://smitmorjariya.vercel.app) | [📂 Code](https://github.com/smitmorjariya/Portfolio-app)
 
 ---
