@@ -28,18 +28,10 @@
 
 ### 💼 Featured Projects
 
-- 🖼️ **MemeVerse** – Multi-page animated meme site  
-  [🔗 Live](https://memeverse.vercel.app) | [📂 Code](https://github.com/MorjariyaSmitN/memeverse)  
-  ![MemeVerse Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjI3dXR6eWFvMXJmN3F5emdxZWxoajJlNWFmcnFtODVpdm94NW1iMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oYtVHSxngR3lC/giphy.gif)
-
-- 📚 **Educbi** – Modern education site  
-  [🔗 Live](https://educbi.vercel.app) | [📂 Code](https://github.com/MorjariyaSmitN/educbi)
 
 - ✅ **Task Management System** – Real-time team task tool  
   [📂 Code](https://github.com/MorjariyaSmitN/task-manager)
 
-- 🛒 **Amazon Clone** – Frontend UI clone  
-  [📂 Code](https://github.com/MorjariyaSmitN/amazon-clone)
 
 ---
 
@@ -63,7 +55,7 @@
 ### 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MorjariyaSmitN&theme=github-compact" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smitmorjariya&theme=github-compact" />
 </p>
 
 ---
