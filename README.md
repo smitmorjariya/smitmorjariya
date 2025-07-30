@@ -50,7 +50,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smitmorjariya&show_icons=true&theme=radical" width="330" />
+  <img src="https://github-readme-stats.vercel.app/api?username=smitmorjariya&show_icons=true&theme=radical" width="350" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smitmorjariya&layout=compact&theme=radical" width="330" />
 </p>
 
