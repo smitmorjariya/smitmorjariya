@@ -39,10 +39,10 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 💻️ Fav Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,git,github,vscode" />
 </p>
 
 ---
@@ -50,7 +50,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smitmorjariya&show_icons=true&theme=radical" width="350" height="360" />
+  <img src="https://github-readme-stats.vercel.app/api?username=smitmorjariya&show_icons=true&theme=radical" width="350" />
+	
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smitmorjariya&layout=compact&theme=radical" width="330" />
 </p>
 
