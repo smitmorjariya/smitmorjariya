@@ -57,7 +57,7 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/morjariyasmit" target="_blank">
+  <a href="https://linkedin.com/in/smitmorjairya" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
   <a href="https://github.com/smitmorjariya" target="_blank">
