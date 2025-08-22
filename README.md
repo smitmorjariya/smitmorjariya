@@ -3,7 +3,7 @@
 
 <p align="center">
   <img width="2000" height="600" alt="Black and White Creative Profile Information LinkedIn Article Cover Image (3)" src="https://github.com/user-attachments/assets/20661b89-d6b8-4295-b19d-d640b6983981" />
-" />
+
 </p>
 
 ---
