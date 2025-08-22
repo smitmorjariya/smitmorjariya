@@ -2,7 +2,8 @@
 <h3 align="center">Frontend Developer | Web Developer  Enthusiast</h3>
 
 <p align="center">
-  <img width="100%" alt="Banner" src="https://github.com/user-attachments/assets/81038545-0292-4bfb-8647-68d6d47a4cba" />
+  <img width="2000" height="600" alt="Black and White Creative Profile Information LinkedIn Article Cover Image (3)" src="https://github.com/user-attachments/assets/20661b89-d6b8-4295-b19d-d640b6983981" />
+" />
 </p>
 
 ---
